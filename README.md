@@ -35,4 +35,5 @@ A multi-agent environment using Unity ML-Agents Toolkit where four agents compet
 - 5️ Import package > Custom package `snowballfight.unitypackage` file.
 
 ## The next steps
+- (Currently updating it) Allow the simulation to continue until one of the team is completely defeated.
 - Preparing an article that explains how Snowball fight works and multi-agents (Elo rating system, self-play etc), in the meantime if you want to know more about multi-agents check this [amazing blogpost from Unity team](https://blogs.unity3d.com/2020/02/28/training-intelligent-adversaries-using-self-play-with-ml-agents/).
